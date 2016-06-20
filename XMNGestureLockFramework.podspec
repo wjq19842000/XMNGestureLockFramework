@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = { "XMFraker" => "3057600441@qq.com" }  
   s.platform     = :ios, "8.0"
-  s.source       = { :git => "https://github.com/ws00801526/XMNGestureLockFramework.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/wjq19842000/XMNGestureLockFramework", :tag => s.version }
   s.source_files = "XMNGestureLockFramework/**/*.{h,m}"
   s.ios.frameworks   = "UIKit", "Foundation"
   s.requires_arc = true
